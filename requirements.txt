@@ -1,0 +1,20 @@
+#cross fade
+pydub
+ffmpeg-python
+
+#beat matching 
+librosa
+numpy
+scipy
+#frontend
+streamlit
+#software
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+requests
+aiofiles
+#experimentnotebook
+ipykernel
+matplotlib
